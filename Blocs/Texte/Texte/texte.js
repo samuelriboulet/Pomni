@@ -6,7 +6,7 @@ Blockly.Blocks['texte__texte'] = {
         .appendField("\"");
     this.setInputsInline(false);
     this.setOutput(true, ["String", "Number"]);
-    this.setColour(260);
+    this.setColour(290);
  this.setTooltip("");
  this.setHelpUrl("");
   }
